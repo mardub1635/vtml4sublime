@@ -5,8 +5,10 @@
 - [Usage](#Usage)
 
 # Description
+
+This repository contains [vtml-tag](http://ondemand.neospeech.com/vt_eng-Engine-VTML-v3.9.0-3.pdf) shortcuts for [Sublime 3 text editor.](https://www.sublimetext.com)
 ![](demo.gif)
-This repository contains files [vtml-tag](http://ondemand.neospeech.com/vt_eng-Engine-VTML-v3.9.0-3.pdf) shortcuts in  [Sublime 3 text editor.](https://www.sublimetext.com)
+
 
 ## Source 
 
