@@ -33,7 +33,7 @@ into "Preferences>Key Bindings". Save it.
 
 2) Select words you want to surround with tags
 
-3) Use the appropriate shortcut.
+3) Use the appropriate shortcuts, for instance "Alt+v" for a vtml_volume tag.
 
 Good luck!
 
