@@ -6,7 +6,7 @@
 
 # Description
 
-This repository contains [vtml-tag](http://ondemand.neospeech.com/vt_eng-Engine-VTML-v3.9.0-3.pdf) shortcuts for [Sublime 3 text editor.](https://www.sublimetext.com)
+Writing a vtml files can be repetitive. This repository contains [vtml-tag](http://ondemand.neospeech.com/vt_eng-Engine-VTML-v3.9.0-3.pdf) shortcuts for [Sublime 3 text editor.](https://www.sublimetext.com)
 ![](demo.gif)
 
 
