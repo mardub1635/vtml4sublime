@@ -1,0 +1,33 @@
+[/*The following key bindings should apply only to XML files.
+Save your document under a *.xml extension if you want them to work.
+author: Marie Dubremetz*/
+	{ "keys": ["alt+b"], 
+  "command": "insert_snippet", 
+  "args": { "name": "Packages/User/vtml/vtml_break.sublime-snippet" }, 
+  "context": [ {"key": "selector", "operator": "equal", "operand": "text.xml"} ]},
+	{ "keys": ["alt+e"], 
+  "command": "insert_snippet", 
+  "args": { "name": "Packages/User/vtml/vtml_emotion.sublime-snippet" }, 
+  "context": [ {"key": "selector", "operator": "equal", "operand": "text.xml"} ]},
+	{ "keys": ["alt+a"], /*OBS: "a" for p(a)use*/
+  "command": "insert_snippet", 
+  "args": { "name": "Packages/User/vtml/vtml_pause.sublime-snippet" }, 
+  "context": [ {"key": "selector", "operator": "equal", "operand": "text.xml"} ]},
+	{ "keys": ["alt+f"], /* OBS: "f" for ph(f)oneme*/
+  "command": "insert_snippet", 
+  "args": { "name": "Packages/User/vtml/vtml_phoneme.sublime-snippet" }, 
+  "context": [ {"key": "selector", "operator": "equal", "operand": "text.xml"} ]},
+	{ "keys": ["alt+p"], 
+  "command": "insert_snippet", 
+  "args": { "name": "Packages/User/vtml/vtml_pitch.sublime-snippet" }, 
+  "context": [ {"key": "selector", "operator": "equal", "operand": "text.xml"} ]},
+	{ "keys": ["alt+v"], 
+  "command": "insert_snippet", 
+  "args": { "name": "Packages/User/vtml/vtml_volume.sublime-snippet" }, 
+  "context": [ {"key": "selector", "operator": "equal", "operand": "text.xml"} ]},
+  	{ "keys": ["alt+s"], 
+  "command": "insert_snippet", 
+  "args": { "name": "Packages/User/vtml/vtml_speed.sublime-snippet" }, 
+  "context": [ {"key": "selector", "operator": "equal", "operand": "text.xml"} ]}
+
+]

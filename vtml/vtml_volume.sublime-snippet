@@ -1,0 +1,3 @@
+<snippet>
+	<content><![CDATA[<vtml_volume value="${1:110}">$SELECTION</vtml_volume>$0]]></content>
+</snippet>
