@@ -29,7 +29,7 @@ into "Preferences>Key Bindings". Save it.
  
 ## Usage
 
-1) Open a file in Sublime and save it with an XML extension. For instance "example**.xml**"
+1) Open a file in Sublime and save it with an XML extension. For instance "example.xml"
 
 2) Select words you want to surround with tags
 
