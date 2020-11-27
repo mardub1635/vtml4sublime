@@ -3,7 +3,7 @@
 - [Source](#Source)
 - [Installation](#Installation)
 - [Usage](#Usage)
-
+- [List of shortcuts](#Shortcuts)
 # Description
 
 Writing a vtml file can be repetitive. This repository contains [vtml-tag](http://ondemand.neospeech.com/vt_eng-Engine-VTML-v3.9.0-3.pdf) shortcuts for [Sublime 3 text editor.](https://www.sublimetext.com)
@@ -34,6 +34,22 @@ into "Preferences>Key Bindings". Save it.
 2) Select words you want to surround with tags
 
 3) Use the appropriate shortcuts, for instance "Alt+v" for a vtml_volume tag.
+
+## Shortcuts:
+* Vtml-break:
+alt+b
+* Vtml-emotion:
+alt+e
+* Vtml-pause:
+alt+a
+* Vtml-phoneme:
+alt+f
+* Vtml-volume:
+alt+v
+* Vtml-pitch:
+alt+p
+* Vtml-speed:
+alt+s
 
 Good luck!
 
