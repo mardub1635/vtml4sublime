@@ -6,7 +6,7 @@
 - [List of shortcuts](#Shortcuts)
 # Description
 
-Writing a vtml file can be repetitive. This repository contains [vtml-tag](http://ondemand.neospeech.com/vt_eng-Engine-VTML-v3.9.0-3.pdf) shortcuts for [Sublime 3 text editor.](https://www.sublimetext.com)
+Writing a vtml file can be repetitive. This repository contains [vtml-tag](https://docplayer.net/28913658-Vtml-voicetext-markup-language-tag-set.html) shortcuts for [Sublime 3 text editor.](https://www.sublimetext.com)
 ![](demo.gif)
 
 
